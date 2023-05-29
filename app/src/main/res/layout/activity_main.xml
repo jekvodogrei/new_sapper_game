@@ -19,42 +19,42 @@
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button1"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button2"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button3"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button4"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button5"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button6"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button7"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button8"
-                android:text="TextView" />
+                android:text="" />
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
@@ -65,42 +65,42 @@
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button9"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button10"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button11"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button12"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button13"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button14"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button15"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button16"
-                android:text="TextView" />
+                android:text="" />
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
@@ -111,42 +111,42 @@
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button17"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button18"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button19"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button20"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button21"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button22"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button23"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button24"
-                android:text="TextView" />
+                android:text="" />
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
@@ -157,42 +157,42 @@
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button25"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button26"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button27"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button28"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button29"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button30"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button31"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button32"
-                android:text="TextView" />
+                android:text="" />
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
@@ -203,41 +203,41 @@
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button33"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button34"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button35"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button36"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button37"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button38"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button39"
-                android:text="TextView" />
+                android:text="" />
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button40"
-                android:text="TextView" />
+                android:text="" />
         </LinearLayout>
 
         <LinearLayout
@@ -249,42 +249,42 @@
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button41"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button42"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button43"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button44"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button45"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button46"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button47"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button48"
-                android:text="TextView" />
+                android:text="" />
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
@@ -295,41 +295,41 @@
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button49"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button50"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button51"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button52"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button53"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button54"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button55"
-                android:text="TextView" />
+                android:text="" />
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button56"
-                android:text="TextView" />
+                android:text="" />
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
@@ -341,42 +341,42 @@
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button57"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button58"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button59"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button60"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button61"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button62"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button63"
-                android:text="TextView" />
+                android:text="" />
 
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/button64"
-                android:text="TextView" />
+                android:text="" />
         </LinearLayout>
     </LinearLayout>
 
